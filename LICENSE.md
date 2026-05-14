@@ -1,4 +1,4 @@
-# 
+# quantitative nft mint bot | floor-sweeping + take-profit is the best nft mint bot, featuring floor-sweeping and take-profit. Fast, smart, and optimized for NFT trading on
 
 
 
